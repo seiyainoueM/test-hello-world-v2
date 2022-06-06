@@ -1,0 +1,19 @@
+{
+  "name": "@seiyainouem/test-hello-world-v2",
+  "version": "1.0.0",
+  "description": "test-hello-world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyainoueM/test-hello-world-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seiyainoueM/test-hello-world-v2/issues"
+  },
+  "homepage": "https://github.com/seiyainoueM/test-hello-world-v2#readme"
+}
